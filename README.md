@@ -90,8 +90,8 @@ src/
 └── index.css
 ```
 
-## Deploying to Vercel
-Live at:invoice-generator-app-rouge.vercel.app
+## Live At
+https://invoice-generator-app-rouge.vercel.app/
 
 ## Browser support
 
