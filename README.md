@@ -91,13 +91,7 @@ src/
 ```
 
 ## Deploying to Vercel
-
-1. Push the repo to GitHub (or GitLab / Bitbucket).
-2. In [Vercel](https://vercel.com), **Import** the repository.
-3. Vercel detects **Vite**; defaults are **`npm run build`** and output **`dist`**.
-4. Deploy — no environment variables are required for the static app.
-
-This repo includes a [`vercel.json`](./vercel.json) so SPA-style routing (if you add a router later) still serves `index.html` for client routes.
+Live at:invoice-generator-app-rouge.vercel.app
 
 ## Browser support
 
